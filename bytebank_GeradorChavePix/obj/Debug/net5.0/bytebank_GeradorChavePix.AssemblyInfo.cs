@@ -13,9 +13,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("bytebank_GeradorChavePix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Esse pacote se destina a gerar chaves pix de forma aleatório, usando os recursos " +
+    "da estrura guid")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("bytebank_GeradorChavePix")]
+[assembly: System.Reflection.AssemblyProductAttribute("Gerador de chaves pix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bytebank_GeradorChavePix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

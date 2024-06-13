@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Product>Gerador de chaves pix</Product>
+    <Description>Esse pacote se destina a gerar chaves pix de forma aleatório, usando os recursos da estrura guid</Description>
+    <PackageId>bytebank_GeradorChavePix159753852456</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

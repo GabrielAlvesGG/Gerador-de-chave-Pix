@@ -10,3 +10,15 @@ C:\Users\alves\OneDrive\Área de Trabalho\bytebank_GeradorChavePix\bytebank_Gera
 C:\Users\alves\OneDrive\Área de Trabalho\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net5.0\ref\bytebank_GeradorChavePix.dll
 C:\Users\alves\OneDrive\Área de Trabalho\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net5.0\bytebank_GeradorChavePix.pdb
 C:\Users\alves\OneDrive\Área de Trabalho\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net5.0\bytebank_GeradorChavePix.xml
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net5.0\bytebank_GeradorChavePix.deps.json
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net5.0\bytebank_GeradorChavePix.dll
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net5.0\ref\bytebank_GeradorChavePix.dll
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net5.0\bytebank_GeradorChavePix.pdb
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net5.0\bytebank_GeradorChavePix.xml
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net5.0\bytebank_GeradorChavePix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net5.0\bytebank_GeradorChavePix.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net5.0\bytebank_GeradorChavePix.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net5.0\bytebank_GeradorChavePix.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net5.0\bytebank_GeradorChavePix.dll
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net5.0\ref\bytebank_GeradorChavePix.dll
+C:\Users\alves\OneDrive\Documentos\Alura Cursos\Criando e distribuindo bibliotecas em .Net (dll)\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net5.0\bytebank_GeradorChavePix.pdb
